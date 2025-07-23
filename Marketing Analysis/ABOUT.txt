@@ -1,0 +1,33 @@
+### Marketing Analysis
+## Overview
+* This project analyzes marketing campaign data to understand customer behavior, campaign effectiveness, and sales outcomes. * It explores customer demographics, product preferences, and engagement metrics to guide marketing strategies.
+
+## Objectives
+* Investigate which customer segments respond best to marketing efforts.
+* Identify trends across product categories, marital status, and education levels.
+* Explore relationships between income, age, and campaign acceptance.
+* Support customer targeting through visual storytelling and segmentation.
+
+## Tools & Technologies
+* Python (Jupyter Notebook).
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+* Data preprocessing, visualization, and descriptive statistics.
+
+## Key Highlights
+* Cleaned and analyzed a marketing dataset to ensure consistency and accuracy.
+* Explored acceptance rates for different campaigns and demographics.
+* Visualized the impact of income, marital status, and education on campaign responses.
+* Segmented customers based on responsiveness and spending behavior.
+
+## Outcomes
+* Clear identification of customer groups most likely to respond to campaigns.
+* Insights into the effectiveness of each campaign over time.
+* Recommendations for personalized marketing based on income and demographics.
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
