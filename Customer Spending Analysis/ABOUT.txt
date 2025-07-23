@@ -1,0 +1,33 @@
+### Customer Spending Analysis
+## Overview
+* This project dives into customer purchasing behavior to understand key trends and patterns. It uses visual and statistical methods to uncover how variables like gender, age, and annual income affect spending scores.
+
+## Objectives
+* Analyze the distribution of spending scores among different demographics
+* Identify trends and correlations between income, age, and spending
+* Support marketing and business decisions through customer segmentation
+* Enhance storytelling through visual analytics
+
+## Tools & Technologies
+* Python (Jupyter Notebook)
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn
+* Data Visualization and EDA techniques
+
+## Key Highlights
+* Cleaned and explored a customer dataset for better analytical accuracy
+* Compared spending patterns across age groups and income levels
+* Highlighted the impact of gender on spending behavior
+* Created insightful visualizations for storytelling and presentations
+
+## Outcomes
+* Clear understanding of customer segmentation based on income and spending
+* Identified age and income brackets with the highest engagement
+* Delivered a visually-driven narrative to support business strategies
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
