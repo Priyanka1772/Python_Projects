@@ -1,0 +1,37 @@
+### Iris Dataset Classification & Analysis
+## Overview
+* This project uses the classic Iris dataset to explore flower species classification based on sepal and petal features. 
+* It combines data analysis and machine learning to demonstrate the fundamentals of classification tasks in data science.
+
+## Objectives
+* Perform exploratory data analysis on the Iris dataset.
+* Visualize feature relationships between flower species.
+* Build a classification model to predict flower types.
+* Evaluate model performance using accuracy and confusion matrix.
+
+## Tools & Technologies
+* Python (Jupyter Notebook)
+* Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+* Machine Learning algorithms (Logistic Regression, KNN, etc.)
+
+## Key Highlights
+* Visualized feature distributions and relationships across species.
+* Encoded categorical labels and prepared data for modeling.
+* Compared multiple classification algorithms.
+* Evaluated model performance with metrics and visual tools.
+
+## Outcomes
+* Achieved high model accuracy using supervised learning.
+* Identified which features best distinguish between species.
+* Reinforced core concepts of classification using a simple, real-world dataset.
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Data Source
+* The Iris dataset is a classic open dataset, available directly from Scikit-learn or UCI Machine Learning Repository.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
