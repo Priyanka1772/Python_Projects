@@ -1,0 +1,36 @@
+### Sales Analysis
+## Overview
+* This project focuses on analyzing a sales dataset to uncover patterns in customer purchases, product performance, and regional sales trends. 
+* The goal is to generate actionable insights to help businesses make data-driven decisions.
+
+## Objectives
+* Explore monthly sales performance and growth patterns
+* Identify top-selling products and key revenue contributors
+* Analyze city-wise and time-based trends in purchasing behavior
+* Detect potential correlations between features like price, quantity, and revenue
+
+## Tools & Technologies
+* Python (Jupyter Notebook)
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn
+* Data aggregation, filtering, and visualization techniques
+
+## Key Highlights
+* Combined and cleaned sales data across multiple months
+* Analyzed the impact of advertisements and promotions on sales
+* Identified peak hours and cities generating the most revenue
+* Created clear, business-friendly visual summaries of trends
+
+## Outcomes
+* Pinpointed best-performing products and locations
+* Provided monthly trend analysis to support forecasting
+* Offered business insights on when and where to focus sales efforts
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Author 
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
+
+
