@@ -1,1 +1,43 @@
+### YouTube Statistics Analysis
+* A data exploration project using Python to understand viewer behavior and content performance on YouTube.
+
+## Overview
+* This project explores patterns and trends in a dataset of trending YouTube videos with the goal of understanding what drives engagement on the platform. 
+* Through data cleaning, exploratory analysis, and visual storytelling, it uncovers valuable insights into content performance across different categories.
+* It reflects my ability to approach open-ended questions using data, a critical skill for roles in data analysis and business intelligence.
+
+## Objectives
+* Analyze YouTube trending data to uncover key engagement drivers
+* Explore the relationship between views, likes, dislikes, and comments
+* Identify top-performing categories using visual analysis
+
+## Tools & Technologies
+* Python (Jupyter Notebook)
+* Pandas for data handling
+* Matplotlib and Seaborn for visualization
+
+## Key Highlights
+* Cleaned and structured messy raw data for analysis
+* Visualized engagement trends across multiple categories
+* Found a strong correlation between likes and views
+* Identified anomalies like viral videos with low engagement
+* Presented insights through clean and readable graphs
+
+## Outcomes
+* This project sharpened my skills in:
+  - Data wrangling and exploration
+  - Drawing insights from real-world datasets
+  - Communicating results visually and effectively
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Data Source
+* The analysis is based on the dataset that has is publically available.
+* https://www.kaggle.com/datasets/advaypatil/youtube-statistics
+
+## Author 
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
 
