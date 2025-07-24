@@ -1,0 +1,34 @@
+### Titanic Dataset Analysis
+## Overview
+* This project analyzes the Titanic passenger dataset to explore survival patterns based on various factors like gender, age, class, and fare. 
+* It combines data preprocessing, visualization, and classification modeling to uncover key insights.
+
+## Objectives
+* Perform exploratory data analysis on Titanic passenger information.
+* Identify survival rates based on demographics and ticket class.
+* Clean and preprocess data for machine learning.
+* Build predictive models to classify survival outcomes.
+
+## Tools & Technologies
+* Python (Jupyter Notebook).
+* Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn.
+* Data cleaning, feature engineering, and classification algorithms.
+
+## Key Highlights
+* Explored survival trends by age group, gender, and passenger class.
+* Visualized key relationships using bar plots, heatmaps, and histograms.
+* Applied logistic regression and decision tree models.
+* Evaluated accuracy and confusion matrix for each model.
+
+## Outcomes
+* Identified significant features affecting passenger survival.
+* Developed and tested basic classification models on historical data.
+* Reinforced understanding of supervised learning with a classic dataset.
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
