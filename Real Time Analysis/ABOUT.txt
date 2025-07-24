@@ -1,0 +1,34 @@
+### Real-Time Data Analysis
+## Overview
+* This project focuses on performing real-time data analysis using live data from an external API. 
+* It emphasizes handling dynamic datasets, visualizing streaming information, and drawing quick, actionable insights.
+
+## Objectives
+* Connect to a real-time data source and retrieve dynamic values.
+* Perform on-the-fly analysis and visualize real-time trends.
+* Handle data updates, timestamp formatting, and live aggregation.
+* Demonstrate practical use cases for live dashboards and alerts.
+
+## Tools & Technologies
+* Python (Jupyter Notebook).
+* Libraries: Requests, Pandas, Matplotlib, Time, JSON.
+* Real-time API interaction and data visualization.
+
+## Key Highlights
+* Fetched live data using public APIs for real-time analysis.
+* Processed and cleaned time-based data on the fly.
+* Visualized fluctuations and patterns over short intervals.
+* Demonstrated how real-time data can support instant decision-making.
+
+## Outcomes
+* Built foundational skills for working with real-time systems.
+* Understood challenges and methods for handling streaming data.
+* Delivered a simple but effective live data analytics model.
+
+## How to Access
+* The '.ipynb' file for this project has been uploaded in this directory.
+* Download the file and open it Jupyter Notebook or any other software.
+* Explore the charts, the tables and the queries.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
