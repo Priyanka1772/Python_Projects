@@ -30,5 +30,5 @@
 * Download the file and open it Jupyter Notebook or any other software.
 * Explore the charts, the tables and the queries.
 
-## Author
-* www.linkedin.com/in/priyanka-s-kumar-1580b0218
+## LinkedIn Link
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_python-dataanalysis-jupyternotebook-activity-7360908145990254592-r7oH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
